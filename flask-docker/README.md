@@ -89,6 +89,7 @@ Create two files; **app.py** and **Dockerfile**
 `touch app.py Dockerfile`
 ### 5. Docker the docker image 
 docker build --tag python-docker .
+
 docker run -d -p 5000:5000 python-docker
 
 ## Congratulations! You can now proceed with the article on Dockerizing a Flask app [here](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/).
