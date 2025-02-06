@@ -7,8 +7,8 @@
 **Windows**
           
 ```bash
-git clone https://github.com/Dev-Elie/Flask-Docker-App.git
-cd Flask-Docker-App
+git clone https://github.com/manasi09-pd/DOCKER.git
+cd flask-docker
 py -3 -m venv venv
 
 ```
@@ -16,8 +16,8 @@ py -3 -m venv venv
 **macOS/Linux**
           
 ```bash
-git clone https://github.com/Dev-Elie/Flask-Docker-App.git
-cd Flask-Docker-App
+git clone https://github.com/manasi09-pd/DOCKER.git
+cd flask-docker
 python3 -m venv venv
 
 ```
@@ -90,9 +90,7 @@ Create two files; **app.py** and **Dockerfile**
 
 ## Congratulations! You can now proceed with the article on Dockerizing a Flask app [here](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/).
 
-</br>
-<div align="center"><h1>Follow me on Twitter</h1></div>
-<p align="center"> <a href="https://twitter.com/dev_elie" target="blank"><img src="https://img.shields.io/twitter/follow/dev_elie?logo=twitter&style=for-the-badge" alt="dev_elie" /></a> </p>
+
 
 
 
